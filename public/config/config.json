@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x91883c2eD1127F12519f89476d05e0202B4f5E9d",
+  "SCAN_LINK": "https://polygonscan.com/address/0x91883c2ed1127f12519f89476d05e0202b4f5e9d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Theyre Like Humans",
+  "SYMBOL": "TLH",
+  "MAX_SUPPLY": 69,
+  "WEI_COST": 69000000000000000000,
+  "DISPLAY_COST": 0.0069,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/theyrelikehumans",
+  "SHOW_BACKGROUND": false
+}
